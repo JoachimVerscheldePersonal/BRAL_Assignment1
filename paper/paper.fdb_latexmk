@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex paper"] 1720384086.74897 "paper.aux" "paper.bbl" "paper" 1720384094.59198 0
+["bibtex paper"] 1720384144.69451 "paper.aux" "paper.bbl" "paper" 1720384151.28523 0
   "./references.bib" 1719391239 3290 26b7bd9968fe1f31d1c8b94417b68b74 ""
   "c:/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1718829528 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "paper.aux" 1720384091 5998 e64d8e116b4841cac3043664fb6fbc76 "pdflatex"
+  "paper.aux" 1720384149 5998 82ed359e4c98c866bb043250bd9704a2 "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["pdflatex"] 1720384088.01371 "c:/Repositories/OpenUniversiteit/BRAL/BRAL_Assignment1/paper/paper.tex" "paper.pdf" "paper" 1720384094.59405 0
+["pdflatex"] 1720384146.1162 "c:/Repositories/OpenUniversiteit/BRAL/BRAL_Assignment1/paper/paper.tex" "paper.pdf" "paper" 1720384151.28772 0
   "../figures/causal_megan_code.png" 1719414429 25190 f9136982bdb82886c1dc56d26b11d8d6 ""
   "../figures/cpt_declaration.png" 1719331425 27963 05193ec523006230deab9cae83c65801 ""
   "../figures/inference_BRCA1-parents_code.png" 1719409315 35073 f66ec2aa754e3c048bad5c976eee85e3 ""
@@ -20,7 +20,7 @@
   "../figures/network_definition.png" 1719330917 24981 456c50faffa19655b2b9057cb87d18c3 ""
   "../figures/prior_declaration.png" 1719337340 14607 23343b9ea91ef73000c0cb84f5de64c6 ""
   "../figures/priors.png" 1719337176 32153 1d0eb68b9536a8747c8c67e9b5b07954 ""
-  "c:/Repositories/OpenUniversiteit/BRAL/BRAL_Assignment1/paper/paper.tex" 1720384075 13708 e31677b800d2d786c6c4c32563e383ea ""
+  "c:/Repositories/OpenUniversiteit/BRAL/BRAL_Assignment1/paper/paper.tex" 1720384135 13856 56069969a7e0a5726dff4682ec5f47b7 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1718831349 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1718836824 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1718834176 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -99,10 +99,10 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1718879727 5528846 47cdb80fb017a8505c1f8b75ba228bf0 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1718880080 8238371 26c51b7064b2153f5eef2afcf24fb895 ""
   "c:/texlive/2024/texmf.cnf" 1718879661 713 e69b156964470283e0530f5060668171 ""
-  "paper.aux" 1720384091 5998 e64d8e116b4841cac3043664fb6fbc76 "pdflatex"
-  "paper.bbl" 1720384087 2338 8cd91eedf02406f0b728c25cb758d553 "bibtex paper"
-  "paper.out" 1720384091 2394 31eb627967cae4fee9ada55db86b6617 "pdflatex"
-  "paper.tex" 1720384075 13708 e31677b800d2d786c6c4c32563e383ea ""
+  "paper.aux" 1720384149 5998 82ed359e4c98c866bb043250bd9704a2 "pdflatex"
+  "paper.bbl" 1720384146 2338 8cd91eedf02406f0b728c25cb758d553 "bibtex paper"
+  "paper.out" 1720384149 2394 31eb627967cae4fee9ada55db86b6617 "pdflatex"
+  "paper.tex" 1720384135 13856 56069969a7e0a5726dff4682ec5f47b7 ""
   (generated)
   "paper.aux"
   "paper.log"

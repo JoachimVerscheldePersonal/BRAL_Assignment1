@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "BRCA",
+        "pyAgrum",
+        "cslnb",
+        "Proba"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:Assignment1}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
